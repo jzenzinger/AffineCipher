@@ -1,0 +1,12 @@
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/bin/Release/netcoreapp3.1/AfinniSifra.deps.json
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/bin/Release/netcoreapp3.1/AfinniSifra.runtimeconfig.json
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/bin/Release/netcoreapp3.1/AfinniSifra.runtimeconfig.dev.json
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/bin/Release/netcoreapp3.1/AfinniSifra.dll
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/bin/Release/netcoreapp3.1/AfinniSifra.pdb
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/obj/Release/netcoreapp3.1/AfinniSifra.AssemblyInfoInputs.cache
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/obj/Release/netcoreapp3.1/AfinniSifra.AssemblyInfo.cs
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/obj/Release/netcoreapp3.1/AfinniSifra.csproj.CoreCompileInputs.cache
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/obj/Release/netcoreapp3.1/AfinniSifra.dll
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/obj/Release/netcoreapp3.1/AfinniSifra.pdb
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/obj/Release/netcoreapp3.1/AfinniSifra.genruntimeconfig.cache
+/Users/jirizenzinger/Projects/AfinniSifra/AfinniSifra/obj/Release/netcoreapp3.1/AfinniSifra.csprojAssemblyReference.cache
